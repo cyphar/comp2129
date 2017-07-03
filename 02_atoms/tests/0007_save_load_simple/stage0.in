@@ -1,0 +1,5 @@
+START 2 3 3
+PLACE 0 0
+PLACE 1 1
+SAVE stage0.as
+DISPLAY

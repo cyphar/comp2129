@@ -1,0 +1,11 @@
+UNDO
+UNDO 2
+UNDO abc
+START 3 2 10
+UNDO
+UNDO ab
+UNDO   a    b 2-3
+PLACE 0 0
+UNDO
+UNDO a a
+UNDO

@@ -1,0 +1,13 @@
+LOAD what
+LOAD
+LOAD aa a aa aa
+LOAD a.a
+START what
+HELP
+START 2 1 2
+START no
+START 2 1 a
+LOAD shouldnotwork
+LOAD
+LOAD  a a aaa
+QUIT

@@ -1,0 +1,3 @@
+LOAD save.as
+PLAYFROM 0
+SAVE save.as

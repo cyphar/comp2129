@@ -1,0 +1,90 @@
+Game Loaded
+
+Game Ready
+Green's Turn
+
+Purple's Turn
+
+Red's Turn
+
+Cannot Place Atom Here
+
+
++--------------+
+|R1|  |  |P1|  |
+|P1|R1|G1|  |G1|
++--------------+
+
+Cannot Place Atom Here
+
+Green's Turn
+
+Purple's Turn
+
+Green's Turn
+
+
++--------------+
+|  |P1|  |P1|G1|
+|P1|P2|G1|G2|  |
++--------------+
+
+Game Saved
+
+Player Red:
+Lost
+
+Player Green:
+Grid Count: 3
+
+Player Purple:
+Grid Count: 4
+
+Purple's Turn
+
+
+HELP displays this help message
+QUIT quits the current game
+
+DISPLAY draws the game board in terminal
+START <number of players> <width> <height> starts the game
+PLACE <x> <y> places an atom in a grid space
+UNDO undoes the last move made
+STAT displays game statistics
+
+SAVE <filename> saves the state of the game
+LOAD <filename> loads a save file
+PLAYFROM <turn> plays from n steps into the game
+
+Green's Turn
+
+Purple's Turn
+
+
++--------------+
+|G1|P1|  |P1|G1|
+|P1|P2|G1|G2|  |
++--------------+
+
+Green's Turn
+
+Purple's Turn
+
+Player Red:
+Lost
+
+Player Green:
+Grid Count: 7
+
+Player Purple:
+Grid Count: 1
+
+
++--------------+
+|G1|G2|G1|P1|G1|
+|  |G2|G2|G2|  |
++--------------+
+
+Green's Turn
+
+Green Wins!

@@ -1,0 +1,53 @@
+Game Ready
+Red's Turn
+
+Green's Turn
+
+Purple's Turn
+
+Red's Turn
+
+Purple's Turn
+
+Red's Turn
+
+
++--------+
+|  |R1|  |
+|R2|  |P1|
+|  |P1|  |
++--------+
+
+Player Red:
+Grid Count: 2
+
+Player Green:
+Lost
+
+Player Purple:
+Grid Count: 2
+
+Purple's Turn
+
+Red's Turn
+
+Green's Turn
+
+Purple's Turn
+
+
++--------+
+|R1|R1|  |
+|G1|G1|  |
+|  |  |P1|
++--------+
+
+Player Red:
+Grid Count: 2
+
+Player Green:
+Grid Count: 2
+
+Player Purple:
+Grid Count: 1
+

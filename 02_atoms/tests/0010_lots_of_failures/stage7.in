@@ -1,0 +1,9 @@
+LOAD nonexist
+LOAD bad file name
+LOAD
+START 2 3 2
+LOAD shouldnotwork
+LOAD bad file name
+LOAD
+LOAD nonexist
+LOAD a.a
