@@ -16,6 +16,22 @@
  */
 
 /*
+ * == WARNING ==
+ *
+ * I've been informed that some current COMP2129 students have been
+ * plagiarising the code from this project, and removing the copyright
+ * statement to try to hide their plagiarism.
+ *
+ * These attempts have obviously failed, since you're reading this warning.
+ *
+ * Aside from being against the University's policies on academic honesty
+ * (which can lead to you being severely penalised), it's also outright
+ * copyright infringement since the GPL mandates that a full copy of the
+ * license and copyright information be included in copies of the work. Not to
+ * mention that it's also completely unethical.
+ */
+
+/*
  * Used to autogenerate code where the list of commands is required. While this
  * might not look very pretty at first glance, this makes command dispatching
  * extensible because the set of commands are not hardcoded anywhere. This idea
